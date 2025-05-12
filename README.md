@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 
 
 2. **Test the app locally:**
-   After you've set up the `README.md` file and committed everything, run the app using the command:
+   Run the app using the command:
 
   ```bash
   npm run dev 
